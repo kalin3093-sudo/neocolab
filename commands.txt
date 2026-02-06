@@ -1,0 +1,20 @@
+wolf--------
+
+pip install pyautogui pyperclip keyboard google.generativeai pyarmor
+if error:
+pip install google-generative-ai
+pip install google-cloud-aiplatform google google.generativeai
+
+eagle----------
+
+pip install subprocess.run pyautogui pyperclip times keyboard threaded langchain langchain-community Ollama pyarmor PyAutoGUI requests
+
+encrypt---------
+
+pyarmor gen [filename]
+
+errors--------
+
+C:\Users\Aman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\LocalPackages\Python312\site-packages\pyarmor
+
+
